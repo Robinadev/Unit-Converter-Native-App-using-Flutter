@@ -1,0 +1,13 @@
+{
+  "category": "Length",
+  "units":[
+    { "name": "Second", "conversion": 1.0 },
+    { "name": "Minute", "conversion": 0.0166667 },
+    { "name": "Hour", "conversion": 0.000277778 },
+    { "name": "Day", "conversion": 0.0000115741 },
+    { "name": "Week", "conversion": 0.00000165344 },
+    { "name": "Month", "conversion": 3.80517e-7 },
+    { "name": "Year", "conversion": 3.17098e-8 }
+  ]
+}
+  

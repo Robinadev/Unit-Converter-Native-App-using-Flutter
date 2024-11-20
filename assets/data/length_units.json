@@ -1,0 +1,14 @@
+{
+  "category": "Length",  
+  "units":[
+    { "name": "Meter", "conversion": 1.0 },
+    { "name": "Kilometer", "conversion": 0.001 },
+    { "name": "Centimeter", "conversion": 100.0 },
+    { "name": "Millimeter", "conversion": 1000.0 },
+    { "name": "Mile", "conversion": 0.000621371 },
+    { "name": "Yard", "conversion": 1.09361 },
+    { "name": "Foot", "conversion": 3.28084 },
+    { "name": "Inch", "conversion": 39.3701 }
+]
+}
+  

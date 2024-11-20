@@ -1,0 +1,13 @@
+{
+    "category": "Mass",
+    "units": [
+      { "name": "Kilogram", "conversion": 1.0 },
+      { "name": "Gram", "conversion": 1000.0 },
+      { "name": "Milligram", "conversion": 1000000.0 },
+      { "name": "Pound", "conversion": 2.20462 },
+      { "name": "Ounce", "conversion": 35.274 },
+      { "name": "Ton", "conversion": 0.001 },
+      { "name": "Stone", "conversion": 0.157473 }
+    ]
+  }
+  
